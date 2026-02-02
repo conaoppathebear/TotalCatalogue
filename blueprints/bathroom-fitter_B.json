@@ -1,0 +1,25 @@
+{
+  "id": "B",
+  "name": "Fast Lead Capture",
+  "strategy": "Emergency",
+  "hero_type": "emergency",
+  "cta_strategy": "call_now",
+  "pages": {
+    "home": [
+      "Hero",
+      "Services",
+      "Testimonials",
+      "Footer"
+    ]
+  },
+  "content_rules": {
+    "tone": "urgent",
+    "cta_text": "Call Now",
+    "urgency_level": "high"
+  },
+  "media_style": {
+    "hero_images": "lifestyle",
+    "gallery": "portfolio",
+    "icons": "outline"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "B",
+  "name": "Fast Lead Capture",
+  "strategy": "Emergency focus with urgent CTAs and minimal friction",
+  "hero_type": "emergency",
+  "cta_strategy": "call_now",
+  "service_layout": "quick_list",
+  "testimonial_style": "short_stars",
+  "faq_style": "problem_focused",
+  "pages": {
+    "home": [
+      "EmergencyHero",
+      "QuickServices",
+      "StickyPhone",
+      "ShortTestimonials",
+      "EmergencyCTA",
+      "Footer"
+    ],
+    "services": [
+      "ServiceHero",
+      "QuickServiceList",
+      "CTA"
+    ],
+    "contact": [
+      "EmergencyForm",
+      "PhoneNumber"
+    ]
+  },
+  "content_rules": {
+    "tone": "urgent",
+    "cta_text": "Call Now - Open 24/7",
+    "hero_headline": "Burst Pipe? Blocked Drain? We're On Our Way.",
+    "hero_subheadline": "Emergency plumbers arrive in under 60 minutes. No callout fee.",
+    "urgency_level": "high"
+  },
+  "media_style": {
+    "hero_images": "action_shots",
+    "gallery": "none",
+    "icons": "solid"
+  }
+}

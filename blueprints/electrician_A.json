@@ -1,0 +1,53 @@
+{
+  "id": "A",
+  "name": "Trust & Authority",
+  "strategy": "Build trust through certifications, safety focus, and compliance",
+  "hero_type": "certified",
+  "cta_strategy": "book_inspection",
+  "service_layout": "category_grid",
+  "testimonial_style": "long_form",
+  "faq_style": "trust_focused",
+  "pages": {
+    "home": [
+      "Hero",
+      "TrustBadges",
+      "Services",
+      "WhyChooseUs",
+      "Testimonials",
+      "Guarantees",
+      "FAQ",
+      "ContactCTA",
+      "Footer"
+    ],
+    "services": [
+      "ServiceHero",
+      "ServiceList",
+      "CertificationInfo",
+      "CTA"
+    ],
+    "about": [
+      "CompanyStory",
+      "Team",
+      "Certifications",
+      "TrustBadges"
+    ],
+    "contact": [
+      "ContactHero",
+      "Form",
+      "Map",
+      "TrustBadges"
+    ]
+  },
+  "content_rules": {
+    "tone": "professional",
+    "cta_text": "Book a Free Safety Inspection",
+    "hero_headline": "NICEIC Approved Electricians. Safe. Certified. Reliable.",
+    "hero_subheadline": "All work certified and compliant with Part P regulations. Your safety is our priority.",
+    "urgency_level": "low"
+  },
+  "media_style": {
+    "hero_images": "professional_team",
+    "gallery": "project_showcase",
+    "icons": "outline"
+  }
+}

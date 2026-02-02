@@ -1,0 +1,47 @@
+{
+  "id": "C",
+  "name": "Premium Brand",
+  "strategy": "High-end smart home and renovation specialist positioning",
+  "hero_type": "lifestyle",
+  "cta_strategy": "book_consultation",
+  "service_layout": "showcase",
+  "testimonial_style": "featured_story",
+  "faq_style": "minimal",
+  "pages": {
+    "home": [
+      "LifestyleHero",
+      "BrandStory",
+      "PremiumServices",
+      "SmartHomeShowcase",
+      "Testimonial",
+      "ConsultationCTA",
+      "Footer"
+    ],
+    "services": [
+      "ServiceShowcase",
+      "ProjectGallery",
+      "CTA"
+    ],
+    "about": [
+      "BrandStory",
+      "Innovation",
+      "Awards"
+    ],
+    "contact": [
+      "ConsultationForm",
+      "Location"
+    ]
+  },
+  "content_rules": {
+    "tone": "refined",
+    "cta_text": "Book Your Smart Home Consultation",
+    "hero_headline": "Smart Home Specialists & Electrical Design Experts",
+    "hero_subheadline": "Cutting-edge electrical solutions for modern living. From automation to complete rewires.",
+    "urgency_level": "low"
+  },
+  "media_style": {
+    "hero_images": "lifestyle",
+    "gallery": "curated_portfolio",
+    "icons": "minimal"
+  }
+}

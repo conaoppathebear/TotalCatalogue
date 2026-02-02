@@ -1,0 +1,47 @@
+{
+  "id": "C",
+  "name": "Premium Brand",
+  "strategy": "High-end decorating with designer paint expertise",
+  "hero_type": "lifestyle",
+  "cta_strategy": "color_consultation",
+  "service_layout": "showcase",
+  "testimonial_style": "featured_story",
+  "faq_style": "minimal",
+  "pages": {
+    "home": [
+      "LifestyleHero",
+      "ColorExpertise",
+      "SignatureProjects",
+      "DesignerPaints",
+      "Testimonial",
+      "ConsultationCTA",
+      "Footer"
+    ],
+    "services": [
+      "ServiceShowcase",
+      "ProjectPortfolio",
+      "CTA"
+    ],
+    "about": [
+      "CraftsmanStory",
+      "Expertise",
+      "DesignerPartners"
+    ],
+    "contact": [
+      "ColorConsultationForm",
+      "Showroom"
+    ]
+  },
+  "content_rules": {
+    "tone": "refined",
+    "cta_text": "Book a Color Consultation",
+    "hero_headline": "Luxury Painting & Decorating for Discerning Clients",
+    "hero_subheadline": "Farrow & Ball specialists. Heritage restoration. Bespoke finishes for exceptional interiors.",
+    "urgency_level": "low"
+  },
+  "media_style": {
+    "hero_images": "lifestyle",
+    "gallery": "curated_portfolio",
+    "icons": "minimal"
+  }
+}

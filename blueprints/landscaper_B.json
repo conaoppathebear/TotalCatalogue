@@ -1,0 +1,41 @@
+{
+  "id": "B",
+  "name": "Fast Lead Capture",
+  "strategy": "Quick quote focus with seasonal urgency",
+  "hero_type": "seasonal",
+  "cta_strategy": "quick_quote",
+  "service_layout": "quick_list",
+  "testimonial_style": "short_stars",
+  "faq_style": "problem_focused",
+  "pages": {
+    "home": [
+      "SeasonalHero",
+      "QuickServices",
+      "SpecialOffer",
+      "ShortTestimonials",
+      "QuickQuoteCTA",
+      "Footer"
+    ],
+    "services": [
+      "ServiceHero",
+      "QuickServiceList",
+      "CTA"
+    ],
+    "contact": [
+      "QuickQuoteForm",
+      "PhoneNumber"
+    ]
+  },
+  "content_rules": {
+    "tone": "friendly",
+    "cta_text": "Get Your Free Quote Today",
+    "hero_headline": "Garden Looking Tired? Let's Fix That Fast.",
+    "hero_subheadline": "Quick turnaround on lawn care, clearances, and maintenance. Free quotes same day.",
+    "urgency_level": "medium"
+  },
+  "media_style": {
+    "hero_images": "action_shots",
+    "gallery": "quick_results",
+    "icons": "solid"
+  }
+}

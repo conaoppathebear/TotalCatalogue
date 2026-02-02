@@ -1,0 +1,47 @@
+{
+  "id": "C",
+  "name": "Premium Brand",
+  "strategy": "High-end garden design with lifestyle positioning",
+  "hero_type": "lifestyle",
+  "cta_strategy": "design_consultation",
+  "service_layout": "showcase",
+  "testimonial_style": "featured_story",
+  "faq_style": "minimal",
+  "pages": {
+    "home": [
+      "LifestyleHero",
+      "DesignPhilosophy",
+      "SignatureProjects",
+      "DesignProcess",
+      "Testimonial",
+      "ConsultationCTA",
+      "Footer"
+    ],
+    "services": [
+      "DesignShowcase",
+      "ProjectPortfolio",
+      "CTA"
+    ],
+    "about": [
+      "DesignerStory",
+      "Philosophy",
+      "Awards"
+    ],
+    "contact": [
+      "DesignConsultationForm",
+      "StudioLocation"
+    ]
+  },
+  "content_rules": {
+    "tone": "refined",
+    "cta_text": "Book a Design Consultation",
+    "hero_headline": "Bespoke Garden Design for Exceptional Homes",
+    "hero_subheadline": "Where artistry meets horticulture. Creating outdoor spaces as unique as you.",
+    "urgency_level": "low"
+  },
+  "media_style": {
+    "hero_images": "lifestyle",
+    "gallery": "curated_portfolio",
+    "icons": "minimal"
+  }
+}

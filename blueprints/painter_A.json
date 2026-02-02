@@ -1,0 +1,52 @@
+{
+  "id": "A",
+  "name": "Trust & Authority",
+  "strategy": "Build trust through quality, experience, and tidy workmanship",
+  "hero_type": "portfolio",
+  "cta_strategy": "free_quote",
+  "service_layout": "category_grid",
+  "testimonial_style": "long_form",
+  "faq_style": "trust_focused",
+  "pages": {
+    "home": [
+      "Hero",
+      "TrustBadges",
+      "Services",
+      "BeforeAfterGallery",
+      "WhyChooseUs",
+      "Testimonials",
+      "Guarantees",
+      "FAQ",
+      "ContactCTA",
+      "Footer"
+    ],
+    "services": [
+      "ServiceHero",
+      "ServiceList",
+      "ProjectGallery",
+      "CTA"
+    ],
+    "about": [
+      "CompanyStory",
+      "Team",
+      "TrustBadges"
+    ],
+    "contact": [
+      "ContactHero",
+      "Form",
+      "Map"
+    ]
+  },
+  "content_rules": {
+    "tone": "professional",
+    "cta_text": "Get a Free Quote",
+    "hero_headline": "Professional Painters & Decorators You Can Trust",
+    "hero_subheadline": "Premium paints. Expert finish. Clean and tidy work. 2-year guarantee.",
+    "urgency_level": "low"
+  },
+  "media_style": {
+    "hero_images": "completed_projects",
+    "gallery": "before_after",
+    "icons": "outline"
+  }
+}

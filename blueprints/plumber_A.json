@@ -1,0 +1,54 @@
+{
+  "id": "A",
+  "name": "Trust & Authority",
+  "strategy": "Build trust through certifications, guarantees, and detailed testimonials",
+  "hero_type": "certified",
+  "cta_strategy": "book_consultation",
+  "service_layout": "category_grid",
+  "testimonial_style": "long_form",
+  "faq_style": "trust_focused",
+  "pages": {
+    "home": [
+      "Hero",
+      "TrustBadges",
+      "Services",
+      "WhyChooseUs",
+      "Testimonials",
+      "Guarantees",
+      "FAQ",
+      "ContactCTA",
+      "Footer"
+    ],
+    "services": [
+      "ServiceHero",
+      "ServiceList",
+      "BeforeAfterGallery",
+      "PricingTable",
+      "CTA"
+    ],
+    "about": [
+      "CompanyStory",
+      "Team",
+      "Certifications",
+      "TrustBadges"
+    ],
+    "contact": [
+      "ContactHero",
+      "Form",
+      "Map",
+      "TrustBadges"
+    ]
+  },
+  "content_rules": {
+    "tone": "professional",
+    "cta_text": "Request a Free Quote",
+    "hero_headline": "Trusted Local Plumbers. Licensed. Insured. Guaranteed.",
+    "hero_subheadline": "Gas Safe registered plumbers with 10+ years experience. All work guaranteed.",
+    "urgency_level": "low"
+  },
+  "media_style": {
+    "hero_images": "professional_team",
+    "gallery": "before_after",
+    "icons": "outline"
+  }
+}

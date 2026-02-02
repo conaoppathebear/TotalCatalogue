@@ -1,0 +1,25 @@
+{
+  "id": "A",
+  "name": "Trust & Authority",
+  "strategy": "Trust",
+  "hero_type": "certified",
+  "cta_strategy": "book_consultation",
+  "pages": {
+    "home": [
+      "Hero",
+      "Services",
+      "Testimonials",
+      "Footer"
+    ]
+  },
+  "content_rules": {
+    "tone": "professional",
+    "cta_text": "Get Quote",
+    "urgency_level": "low"
+  },
+  "media_style": {
+    "hero_images": "lifestyle",
+    "gallery": "portfolio",
+    "icons": "outline"
+  }
+}

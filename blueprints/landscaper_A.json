@@ -1,0 +1,53 @@
+{
+  "id": "A",
+  "name": "Trust & Authority",
+  "strategy": "Build trust through portfolio, experience, and guarantees",
+  "hero_type": "portfolio",
+  "cta_strategy": "free_consultation",
+  "service_layout": "category_grid",
+  "testimonial_style": "long_form",
+  "faq_style": "trust_focused",
+  "pages": {
+    "home": [
+      "Hero",
+      "TrustBadges",
+      "Services",
+      "BeforeAfterGallery",
+      "WhyChooseUs",
+      "Testimonials",
+      "Guarantees",
+      "FAQ",
+      "ContactCTA",
+      "Footer"
+    ],
+    "services": [
+      "ServiceHero",
+      "ServiceList",
+      "ProjectGallery",
+      "CTA"
+    ],
+    "about": [
+      "CompanyStory",
+      "Team",
+      "Awards",
+      "TrustBadges"
+    ],
+    "contact": [
+      "ContactHero",
+      "Form",
+      "Map"
+    ]
+  },
+  "content_rules": {
+    "tone": "professional",
+    "cta_text": "Get a Free Design Consultation",
+    "hero_headline": "Award-Winning Garden Design & Landscaping",
+    "hero_subheadline": "10+ years transforming outdoor spaces. Free consultation and 2-year plant guarantee.",
+    "urgency_level": "low"
+  },
+  "media_style": {
+    "hero_images": "garden_showcase",
+    "gallery": "before_after",
+    "icons": "outline"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "C",
+  "name": "Premium Brand",
+  "strategy": "High-end positioning with lifestyle imagery and consultation focus",
+  "hero_type": "lifestyle",
+  "cta_strategy": "book_consultation",
+  "service_layout": "showcase",
+  "testimonial_style": "featured_story",
+  "faq_style": "minimal",
+  "pages": {
+    "home": [
+      "LifestyleHero",
+      "BrandStory",
+      "PremiumServices",
+      "FeaturedProject",
+      "Testimonial",
+      "ConsultationCTA",
+      "Footer"
+    ],
+    "services": [
+      "ServiceShowcase",
+      "ProjectGallery",
+      "CTA"
+    ],
+    "about": [
+      "BrandStory",
+      "Philosophy",
+      "Awards"
+    ],
+    "contact": [
+      "ConsultationForm",
+      "Location"
+    ]
+  },
+  "content_rules": {
+    "tone": "refined",
+    "cta_text": "Schedule a Consultation",
+    "hero_headline": "Luxury Bathroom Design & Expert Plumbing",
+    "hero_subheadline": "Bespoke plumbing solutions for discerning homeowners. From concept to completion.",
+    "urgency_level": "low"
+  },
+  "media_style": {
+    "hero_images": "lifestyle",
+    "gallery": "curated_portfolio",
+    "icons": "minimal"
+  }
+}

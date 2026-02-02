@@ -1,0 +1,25 @@
+{
+  "id": "C",
+  "name": "Premium Brand",
+  "strategy": "Luxury",
+  "hero_type": "lifestyle",
+  "cta_strategy": "book_consultation",
+  "pages": {
+    "home": [
+      "Hero",
+      "Services",
+      "Testimonials",
+      "Footer"
+    ]
+  },
+  "content_rules": {
+    "tone": "refined",
+    "cta_text": "Consultation",
+    "urgency_level": "low"
+  },
+  "media_style": {
+    "hero_images": "lifestyle",
+    "gallery": "portfolio",
+    "icons": "outline"
+  }
+}
