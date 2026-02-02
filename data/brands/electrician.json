@@ -1,0 +1,77 @@
+{
+  "trade": "Electrician",
+  "slug": "electrician",
+  "typography": {
+    "font_family": "Space Grotesk",
+    "heading_weight": 700,
+    "body_weight": 400,
+    "letter_spacing": "-0.01em",
+    "heading_transform": "uppercase",
+    "line_height_heading": 1.0,
+    "line_height_body": 1.7
+  },
+  "layout": {
+    "section_spacing": "generous",
+    "container_width": "1400px",
+    "border_radius": 4,
+    "card_style": "bordered",
+    "hero_layout": "full-width-overlay",
+    "service_layout": "list-horizontal",
+    "testimonial_layout": "slider",
+    "content_alignment": "center"
+  },
+  "spacing": {
+    "section_padding_mobile": "3rem",
+    "section_padding_desktop": "6rem",
+    "card_padding": "2rem",
+    "gap_small": "1rem",
+    "gap_medium": "2rem",
+    "gap_large": "4rem"
+  },
+  "color_palette": {
+    "primary": "#FFB800",
+    "secondary": "#1A1A2E",
+    "accent": "#00D9FF",
+    "background": "#0F0F1A",
+    "surface": "#1A1A2E",
+    "text": "#FFFFFF",
+    "muted": "#9CA3AF"
+  },
+  "cta_style": {
+    "type": "bold",
+    "button_shape": "sharp",
+    "button_size": "xlarge",
+    "primary_style": "solid",
+    "secondary_style": "ghost",
+    "sticky_mobile": false,
+    "icon_position": "right"
+  },
+  "imagery": {
+    "style": "dramatic_lighting",
+    "hero_overlay": "dark-gradient",
+    "hero_position": "background",
+    "aspect_ratio": "21/9",
+    "border_radius": "0",
+    "shadow": "none"
+  },
+  "icons": {
+    "style": "outline-bold",
+    "size": "large",
+    "container_style": "square",
+    "container_bg": "accent"
+  },
+  "motion": {
+    "hover_scale": 1.0,
+    "hover_shadow": false,
+    "scroll_animation": "slide-in",
+    "animation_duration": 0.6,
+    "stagger_delay": 0.15
+  },
+  "components": {
+    "nav_style": "transparent-dark",
+    "card_border": true,
+    "card_shadow": "none",
+    "badge_style": "angular",
+    "divider_style": "line"
+  }
+}

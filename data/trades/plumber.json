@@ -1,0 +1,110 @@
+{
+  "trade": "Plumber",
+  "slug": "plumber",
+  "tone": "urgent, trustworthy, reliable",
+  "tagline": "Fast Response. Fair Prices. Fixed Right.",
+  "hero_patterns": [
+    "24/7 Emergency Plumbing in {city}",
+    "Blocked Drain? We Fix It Today",
+    "No Hot Water? We're On Our Way",
+    "Burst Pipe? Call Now for Immediate Help"
+  ],
+  "pain_points": [
+    "No hot water for your family",
+    "Burst pipe flooding your home",
+    "Blocked toilet causing embarrassment",
+    "Dripping taps wasting money",
+    "Boiler breakdown in winter"
+  ],
+  "services": [
+    {
+      "name": "Emergency Repairs",
+      "description": "Burst pipes, flooding, and urgent leaks fixed within the hour",
+      "icon": "alert-triangle"
+    },
+    {
+      "name": "Boiler Services",
+      "description": "Installation, repair, and annual servicing for all boiler brands",
+      "icon": "flame"
+    },
+    {
+      "name": "Drain Unblocking",
+      "description": "Professional drain clearing with CCTV inspection included",
+      "icon": "droplet"
+    },
+    {
+      "name": "Bathroom Installation",
+      "description": "Complete bathroom fitting from design to finish",
+      "icon": "bath"
+    },
+    {
+      "name": "Leak Detection",
+      "description": "Find hidden leaks fast with thermal imaging technology",
+      "icon": "search"
+    },
+    {
+      "name": "Water Heater Repair",
+      "description": "Same-day water heater fixes for homes and businesses",
+      "icon": "thermometer"
+    }
+  ],
+  "cta_style": "call_now",
+  "cta_options": {
+    "primary": "Call Now",
+    "secondary": "Get a Free Quote",
+    "emergency": "Emergency? Call 24/7"
+  },
+  "image_tags": ["plumber repair", "leaking pipe", "boiler service", "bathroom installation", "drain cleaning"],
+  "color_palette": {
+    "primary": "#0052cc",
+    "secondary": "#00875a",
+    "accent": "#ff5630",
+    "background": "#ffffff",
+    "text": "#172b4d"
+  },
+  "trust_symbols": ["Gas Safe Registered", "Fully Insured", "5-Star Reviews", "Same Day Service"],
+  "guarantees": [
+    "60-Minute Response Time",
+    "No Fix, No Fee",
+    "12-Month Workmanship Guarantee",
+    "Upfront Pricing - No Hidden Costs"
+  ],
+  "testimonials": [
+    {
+      "quote": "They arrived within 30 minutes when our pipe burst at 2am. Absolute lifesavers!",
+      "author": "Sarah M.",
+      "location": "Manchester",
+      "rating": 5
+    },
+    {
+      "quote": "Professional, clean, and fixed our boiler the same day. Highly recommend.",
+      "author": "James T.",
+      "location": "London",
+      "rating": 5
+    },
+    {
+      "quote": "Finally found a plumber I can trust. Fair prices and excellent work.",
+      "author": "Michelle R.",
+      "location": "Birmingham",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can you respond to emergencies?",
+      "answer": "We aim to arrive within 60 minutes for all emergency callouts, 24 hours a day, 7 days a week."
+    },
+    {
+      "question": "Do you provide free quotes?",
+      "answer": "Yes! We provide free, no-obligation quotes for all non-emergency work before starting any job."
+    },
+    {
+      "question": "Are your plumbers qualified?",
+      "answer": "All our plumbers are Gas Safe registered, fully insured, and have 10+ years of experience."
+    },
+    {
+      "question": "What areas do you cover?",
+      "answer": "We cover the entire local area and surrounding regions within a 30-mile radius."
+    }
+  ]
+}

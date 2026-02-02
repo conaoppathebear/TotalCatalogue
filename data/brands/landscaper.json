@@ -1,0 +1,77 @@
+{
+  "trade": "Landscaper",
+  "slug": "landscaper",
+  "typography": {
+    "font_family": "Playfair Display",
+    "heading_weight": 600,
+    "body_weight": 400,
+    "letter_spacing": "0",
+    "heading_transform": "none",
+    "line_height_heading": 1.2,
+    "line_height_body": 1.8
+  },
+  "layout": {
+    "section_spacing": "airy",
+    "container_width": "1100px",
+    "border_radius": 24,
+    "card_style": "soft",
+    "hero_layout": "stacked-centered",
+    "service_layout": "masonry-2",
+    "testimonial_layout": "quote-large",
+    "content_alignment": "center"
+  },
+  "spacing": {
+    "section_padding_mobile": "3.5rem",
+    "section_padding_desktop": "7rem",
+    "card_padding": "2.5rem",
+    "gap_small": "1.25rem",
+    "gap_medium": "2.5rem",
+    "gap_large": "5rem"
+  },
+  "color_palette": {
+    "primary": "#2D5A27",
+    "secondary": "#F5EFE6",
+    "accent": "#C5A572",
+    "background": "#FFFBF5",
+    "surface": "#F5EFE6",
+    "text": "#2C3E2D",
+    "muted": "#6B7C6B"
+  },
+  "cta_style": {
+    "type": "elegant",
+    "button_shape": "rounded-full",
+    "button_size": "medium",
+    "primary_style": "solid",
+    "secondary_style": "text-underline",
+    "sticky_mobile": false,
+    "icon_position": "none"
+  },
+  "imagery": {
+    "style": "natural_beauty",
+    "hero_overlay": "light-vignette",
+    "hero_position": "top",
+    "aspect_ratio": "4/3",
+    "border_radius": "1.5rem",
+    "shadow": "lg"
+  },
+  "icons": {
+    "style": "thin",
+    "size": "small",
+    "container_style": "none",
+    "container_bg": "none"
+  },
+  "motion": {
+    "hover_scale": 1.01,
+    "hover_shadow": true,
+    "scroll_animation": "fade",
+    "animation_duration": 0.8,
+    "stagger_delay": 0.2
+  },
+  "components": {
+    "nav_style": "minimal",
+    "card_border": false,
+    "card_shadow": "lg",
+    "badge_style": "rounded",
+    "divider_style": "botanical"
+  }
+}

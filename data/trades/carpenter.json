@@ -1,0 +1,71 @@
+{
+  "trade": "Carpenter",
+  "slug": "carpenter",
+  "tone": "precise, artistic, traditional",
+  "tagline": "Master Craftsmanship in Every Detail.",
+  "hero_patterns": [
+    "Expert Carpenter in {city}",
+    "Need a Carpenter? Call Now"
+  ],
+  "pain_points": [
+    "Emergency Carpenter help needed",
+    "Unreliable contractors",
+    "Poor quality finish"
+  ],
+  "services": [
+    {
+      "name": "Emergency Services",
+      "description": "Urgent Carpenter help when you need it most.",
+      "icon": "alert-triangle"
+    },
+    {
+      "name": "Full Installation",
+      "description": "Professional Carpenter installation services.",
+      "icon": "ruler"
+    },
+    {
+      "name": "Maintenance",
+      "description": "Regular Carpenter maintenance and repairs.",
+      "icon": "clipboard-check"
+    }
+  ],
+  "cta_style": "call_now",
+  "cta_options": {
+    "primary": "Call Now",
+    "secondary": "Get Quote",
+    "emergency": "Emergency Help"
+  },
+  "image_tags": [
+    "carpenter"
+  ],
+  "color_palette": {
+    "primary": "#78350f",
+    "secondary": "#f8fafc",
+    "accent": "#fbbf24",
+    "background": "#ffffff",
+    "text": "#1e293b"
+  },
+  "trust_symbols": [
+    "Fully Licensed",
+    "Insured",
+    "Guaranteed Work"
+  ],
+  "guarantees": [
+    "Satisfaction Guaranteed",
+    "Fast Response"
+  ],
+  "testimonials": [
+    {
+      "quote": "Excellent work, very professional.",
+      "author": "Jane Smith",
+      "location": "London",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does it cost?",
+      "answer": "Prices vary, contact us for a free quote."
+    }
+  ]
+}

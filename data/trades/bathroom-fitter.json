@@ -1,0 +1,71 @@
+{
+  "trade": "Bathroom Fitter",
+  "slug": "bathroom-fitter",
+  "tone": "relaxing, clean, professional",
+  "tagline": "Complete Bathroom Transformations.",
+  "hero_patterns": [
+    "Expert Bathroom Fitter in {city}",
+    "Need a Bathroom Fitter? Call Now"
+  ],
+  "pain_points": [
+    "Emergency Bathroom Fitter help needed",
+    "Unreliable contractors",
+    "Poor quality finish"
+  ],
+  "services": [
+    {
+      "name": "Emergency Services",
+      "description": "Urgent Bathroom Fitter help when you need it most.",
+      "icon": "alert-triangle"
+    },
+    {
+      "name": "Full Installation",
+      "description": "Professional Bathroom Fitter installation services.",
+      "icon": "bath"
+    },
+    {
+      "name": "Maintenance",
+      "description": "Regular Bathroom Fitter maintenance and repairs.",
+      "icon": "clipboard-check"
+    }
+  ],
+  "cta_style": "call_now",
+  "cta_options": {
+    "primary": "Call Now",
+    "secondary": "Get Quote",
+    "emergency": "Emergency Help"
+  },
+  "image_tags": [
+    "bathroom-fitter"
+  ],
+  "color_palette": {
+    "primary": "#0369a1",
+    "secondary": "#f8fafc",
+    "accent": "#f59e0b",
+    "background": "#ffffff",
+    "text": "#1e293b"
+  },
+  "trust_symbols": [
+    "Fully Licensed",
+    "Insured",
+    "Guaranteed Work"
+  ],
+  "guarantees": [
+    "Satisfaction Guaranteed",
+    "Fast Response"
+  ],
+  "testimonials": [
+    {
+      "quote": "Excellent work, very professional.",
+      "author": "Jane Smith",
+      "location": "London",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does it cost?",
+      "answer": "Prices vary, contact us for a free quote."
+    }
+  ]
+}

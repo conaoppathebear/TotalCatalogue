@@ -1,0 +1,110 @@
+{
+  "trade": "Landscaper",
+  "slug": "landscaper",
+  "tone": "creative, professional, transformative",
+  "tagline": "Transform Your Outdoor Space",
+  "hero_patterns": [
+    "Dream Garden? Let's Make It Reality",
+    "Professional Landscaping & Garden Design",
+    "Your Perfect Outdoor Space Awaits",
+    "From Overgrown to Outstanding"
+  ],
+  "pain_points": [
+    "Garden looking tired and overgrown",
+    "Uninspiring outdoor space",
+    "No time for garden maintenance",
+    "Want to add value to your property",
+    "Need a complete garden transformation"
+  ],
+  "services": [
+    {
+      "name": "Garden Design",
+      "description": "Bespoke garden design with 3D visualizations and planting plans",
+      "icon": "pencil-ruler"
+    },
+    {
+      "name": "Landscaping",
+      "description": "Complete landscape construction including patios, decking, and features",
+      "icon": "shovel"
+    },
+    {
+      "name": "Lawn Care",
+      "description": "Regular mowing, feeding, and treatment for the perfect lawn",
+      "icon": "leaf"
+    },
+    {
+      "name": "Tree Surgery",
+      "description": "Professional tree pruning, removal, and stump grinding",
+      "icon": "tree-deciduous"
+    },
+    {
+      "name": "Fencing & Decking",
+      "description": "Quality fencing installation and composite or timber decking",
+      "icon": "fence"
+    },
+    {
+      "name": "Garden Maintenance",
+      "description": "Regular maintenance packages to keep your garden looking its best",
+      "icon": "calendar"
+    }
+  ],
+  "cta_style": "free_consultation",
+  "cta_options": {
+    "primary": "Get a Free Design Consultation",
+    "secondary": "View Our Work",
+    "emergency": "Quick Quote"
+  },
+  "image_tags": ["landscaping", "garden design", "patio", "lawn care", "outdoor living space"],
+  "color_palette": {
+    "primary": "#00875a",
+    "secondary": "#36b37e",
+    "accent": "#8b6914",
+    "background": "#f4f5f7",
+    "text": "#172b4d"
+  },
+  "trust_symbols": ["RHS Member", "Fully Insured", "Award Winning", "10+ Years Experience"],
+  "guarantees": [
+    "Free Design Consultation",
+    "2-Year Plant Guarantee",
+    "Workmanship Warranty",
+    "On-Time, On-Budget Delivery"
+  ],
+  "testimonials": [
+    {
+      "quote": "They transformed our muddy patch into a stunning garden oasis. Beyond our expectations!",
+      "author": "Helen W.",
+      "location": "Surrey",
+      "rating": 5
+    },
+    {
+      "quote": "Professional from start to finish. The 3D design helped us visualize everything perfectly.",
+      "author": "Mark B.",
+      "location": "Kent",
+      "rating": 5
+    },
+    {
+      "quote": "Our new patio and planting scheme have completely changed how we use our outdoor space.",
+      "author": "Angela S.",
+      "location": "Hampshire",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does landscaping cost?",
+      "answer": "Costs vary based on size and scope. We offer free consultations and detailed quotes so you know exactly what to expect."
+    },
+    {
+      "question": "Do you offer maintenance packages?",
+      "answer": "Yes! We offer weekly, bi-weekly, and monthly maintenance packages to suit your needs and budget."
+    },
+    {
+      "question": "How long does a garden transformation take?",
+      "answer": "Most projects take 2-4 weeks depending on size. We'll give you a clear timeline during your consultation."
+    },
+    {
+      "question": "Do you work in winter?",
+      "answer": "We work year-round. Winter is actually ideal for hard landscaping like patios and fencing."
+    }
+  ]
+}

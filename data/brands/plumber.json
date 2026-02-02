@@ -1,0 +1,77 @@
+{
+  "trade": "Plumber",
+  "slug": "plumber",
+  "typography": {
+    "font_family": "Inter",
+    "heading_weight": 800,
+    "body_weight": 400,
+    "letter_spacing": "-0.02em",
+    "heading_transform": "none",
+    "line_height_heading": 1.1,
+    "line_height_body": 1.6
+  },
+  "layout": {
+    "section_spacing": "compact",
+    "container_width": "1200px",
+    "border_radius": 12,
+    "card_style": "elevated",
+    "hero_layout": "split-right",
+    "service_layout": "grid-3",
+    "testimonial_layout": "cards",
+    "content_alignment": "left"
+  },
+  "spacing": {
+    "section_padding_mobile": "2.5rem",
+    "section_padding_desktop": "5rem",
+    "card_padding": "1.5rem",
+    "gap_small": "0.75rem",
+    "gap_medium": "1.5rem",
+    "gap_large": "3rem"
+  },
+  "color_palette": {
+    "primary": "#0066FF",
+    "secondary": "#E8F2FF",
+    "accent": "#FF3D00",
+    "background": "#FFFFFF",
+    "surface": "#F8FAFC",
+    "text": "#0F172A",
+    "muted": "#64748B"
+  },
+  "cta_style": {
+    "type": "urgent",
+    "button_shape": "rounded-lg",
+    "button_size": "large",
+    "primary_style": "solid",
+    "secondary_style": "outline",
+    "sticky_mobile": true,
+    "icon_position": "left"
+  },
+  "imagery": {
+    "style": "action_shots",
+    "hero_overlay": "gradient-dark",
+    "hero_position": "right",
+    "aspect_ratio": "16/10",
+    "border_radius": "1rem",
+    "shadow": "2xl"
+  },
+  "icons": {
+    "style": "filled",
+    "size": "medium",
+    "container_style": "circle",
+    "container_bg": "primary-light"
+  },
+  "motion": {
+    "hover_scale": 1.02,
+    "hover_shadow": true,
+    "scroll_animation": "fade-up",
+    "animation_duration": 0.4,
+    "stagger_delay": 0.1
+  },
+  "components": {
+    "nav_style": "sticky-blur",
+    "card_border": false,
+    "card_shadow": "md",
+    "badge_style": "pill",
+    "divider_style": "none"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "trade": "Painter",
+  "slug": "painter",
+  "tone": "precise, clean, transformative",
+  "tagline": "Quality Finish. Every Time.",
+  "hero_patterns": [
+    "Transform Your Space with Expert Painting",
+    "Professional Painters & Decorators",
+    "Fresh Paint. Fresh Start.",
+    "Interior & Exterior Painting Specialists"
+  ],
+  "pain_points": [
+    "Walls looking tired and dated",
+    "Previous paint job peeling or cracking",
+    "Want to refresh your home's appearance",
+    "Moving in and need walls repainted",
+    "Exterior paint weathered and fading"
+  ],
+  "services": [
+    {
+      "name": "Interior Painting",
+      "description": "Complete interior painting with proper preparation and premium paints",
+      "icon": "paint-bucket"
+    },
+    {
+      "name": "Exterior Painting",
+      "description": "Weather-resistant exterior painting that lasts for years",
+      "icon": "home"
+    },
+    {
+      "name": "Wallpapering",
+      "description": "Expert wallpaper hanging and removal services",
+      "icon": "layers"
+    },
+    {
+      "name": "Commercial Painting",
+      "description": "Offices, retail, and commercial spaces painted with minimal disruption",
+      "icon": "building"
+    },
+    {
+      "name": "Specialty Finishes",
+      "description": "Feature walls, murals, and decorative paint techniques",
+      "icon": "sparkles"
+    },
+    {
+      "name": "Wood Staining",
+      "description": "Deck, fence, and furniture staining and restoration",
+      "icon": "tree-pine"
+    }
+  ],
+  "cta_style": "free_quote",
+  "cta_options": {
+    "primary": "Get a Free Quote",
+    "secondary": "See Our Portfolio",
+    "emergency": "Same-Week Availability"
+  },
+  "image_tags": ["house painting", "interior painting", "painter at work", "painted room", "exterior painting"],
+  "color_palette": {
+    "primary": "#6554c0",
+    "secondary": "#998dd9",
+    "accent": "#ff5630",
+    "background": "#ffffff",
+    "text": "#172b4d"
+  },
+  "trust_symbols": ["Dulux Approved", "Fully Insured", "10+ Years Experience", "5-Star Reviews"],
+  "guarantees": [
+    "Free Color Consultation",
+    "Premium Paints Only",
+    "Clean & Tidy Worksite",
+    "2-Year Workmanship Guarantee"
+  ],
+  "testimonials": [
+    {
+      "quote": "They repainted our entire house in just 4 days. Spotless work and incredibly tidy.",
+      "author": "Christine L.",
+      "location": "Edinburgh",
+      "rating": 5
+    },
+    {
+      "quote": "The attention to detail was outstanding. Our Victorian features look amazing.",
+      "author": "Paul D.",
+      "location": "Glasgow",
+      "rating": 5
+    },
+    {
+      "quote": "Used them for our office refurbishment. They worked evenings to avoid disruption. Brilliant!",
+      "author": "Tech Solutions Ltd",
+      "location": "Newcastle",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does it cost to paint a room?",
+      "answer": "Costs depend on room size, preparation needed, and paint quality. We provide free, detailed quotes for every job."
+    },
+    {
+      "question": "What paints do you use?",
+      "answer": "We use premium paints from Dulux, Farrow & Ball, and Little Greene. We're happy to use your preferred brand too."
+    },
+    {
+      "question": "How long will it take?",
+      "answer": "A typical room takes 1-2 days. Full house projects usually take 1-2 weeks depending on size."
+    },
+    {
+      "question": "Do you move furniture?",
+      "answer": "Yes! We carefully move and cover all furniture, and leave everything exactly as we found it."
+    }
+  ]
+}

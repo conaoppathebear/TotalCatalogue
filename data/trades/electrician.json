@@ -1,0 +1,110 @@
+{
+  "trade": "Electrician",
+  "slug": "electrician",
+  "tone": "safe, professional, certified",
+  "tagline": "Safe. Certified. Switched On.",
+  "hero_patterns": [
+    "Power Out? We'll Get You Back Online Fast",
+    "Certified Electricians Available 24/7",
+    "Electrical Problems? Don't Risk DIY",
+    "Expert Electrical Services You Can Trust"
+  ],
+  "pain_points": [
+    "Power outage affecting your home",
+    "Flickering lights and electrical faults",
+    "Outdated wiring causing safety concerns",
+    "Need an emergency electrician fast",
+    "Fuse box keeps tripping"
+  ],
+  "services": [
+    {
+      "name": "Emergency Callouts",
+      "description": "24/7 response for power outages, sparking outlets, and electrical failures",
+      "icon": "zap-off"
+    },
+    {
+      "name": "Rewiring",
+      "description": "Full house rewiring with minimal disruption and NICEIC certification",
+      "icon": "cable"
+    },
+    {
+      "name": "Fuse Box Upgrades",
+      "description": "Modern consumer unit installation for improved safety and compliance",
+      "icon": "square-stack"
+    },
+    {
+      "name": "Lighting Installation",
+      "description": "LED upgrades, smart lighting, and complete lighting design",
+      "icon": "lightbulb"
+    },
+    {
+      "name": "EV Charger Installation",
+      "description": "Home and commercial electric vehicle charging point installation",
+      "icon": "plug-zap"
+    },
+    {
+      "name": "Safety Inspections",
+      "description": "EICR testing and electrical safety certificates for landlords",
+      "icon": "shield-check"
+    }
+  ],
+  "cta_style": "book_inspection",
+  "cta_options": {
+    "primary": "Book a Free Inspection",
+    "secondary": "Get a Quote",
+    "emergency": "Emergency? Call Now"
+  },
+  "image_tags": ["electrician work", "electrical panel", "wiring", "fuse box", "ev charger installation"],
+  "color_palette": {
+    "primary": "#ffab00",
+    "secondary": "#172b4d",
+    "accent": "#ff5630",
+    "background": "#ffffff",
+    "text": "#172b4d"
+  },
+  "trust_symbols": ["NICEIC Approved", "Part P Certified", "Fully Insured", "5-Star Rated"],
+  "guarantees": [
+    "All Work Certified",
+    "Safety Guaranteed",
+    "5-Year Warranty on Installations",
+    "Transparent Pricing"
+  ],
+  "testimonials": [
+    {
+      "quote": "They upgraded our entire fuse box and rewired the kitchen. Clean, fast, and certified.",
+      "author": "David K.",
+      "location": "Leeds",
+      "rating": 5
+    },
+    {
+      "quote": "Called them when our power went out at night. Fixed within 2 hours. Fantastic service!",
+      "author": "Emma P.",
+      "location": "Bristol",
+      "rating": 5
+    },
+    {
+      "quote": "Installed our EV charger quickly and explained everything clearly. Highly professional.",
+      "author": "Robert H.",
+      "location": "Oxford",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Are your electricians qualified?",
+      "answer": "All our electricians are NICEIC approved, Part P certified, and fully insured with years of experience."
+    },
+    {
+      "question": "Do you provide electrical certificates?",
+      "answer": "Yes, we provide full certification for all work including EICR reports, Part P certificates, and building regulation compliance."
+    },
+    {
+      "question": "How much does a rewire cost?",
+      "answer": "Rewiring costs vary by property size. We offer free surveys and detailed quotes before any work begins."
+    },
+    {
+      "question": "Can you install smart home systems?",
+      "answer": "Absolutely! We specialize in smart lighting, automated systems, and whole-home integration."
+    }
+  ]
+}

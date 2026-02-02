@@ -1,0 +1,77 @@
+{
+  "trade": "Painter",
+  "slug": "painter",
+  "typography": {
+    "font_family": "DM Sans",
+    "heading_weight": 500,
+    "body_weight": 400,
+    "letter_spacing": "0.01em",
+    "heading_transform": "none",
+    "line_height_heading": 1.15,
+    "line_height_body": 1.65
+  },
+  "layout": {
+    "section_spacing": "balanced",
+    "container_width": "1280px",
+    "border_radius": 16,
+    "card_style": "flat",
+    "hero_layout": "asymmetric-left",
+    "service_layout": "grid-2-large",
+    "testimonial_layout": "minimal",
+    "content_alignment": "left"
+  },
+  "spacing": {
+    "section_padding_mobile": "2rem",
+    "section_padding_desktop": "5.5rem",
+    "card_padding": "1.75rem",
+    "gap_small": "0.875rem",
+    "gap_medium": "1.75rem",
+    "gap_large": "3.5rem"
+  },
+  "color_palette": {
+    "primary": "#7C3AED",
+    "secondary": "#FEF3E2",
+    "accent": "#F97316",
+    "background": "#FEFEFE",
+    "surface": "#FAF8F5",
+    "text": "#1C1917",
+    "muted": "#78716C"
+  },
+  "cta_style": {
+    "type": "creative",
+    "button_shape": "rounded-xl",
+    "button_size": "medium",
+    "primary_style": "gradient",
+    "secondary_style": "outline-soft",
+    "sticky_mobile": true,
+    "icon_position": "right"
+  },
+  "imagery": {
+    "style": "lifestyle",
+    "hero_overlay": "none",
+    "hero_position": "left",
+    "aspect_ratio": "3/4",
+    "border_radius": "1.25rem",
+    "shadow": "xl"
+  },
+  "icons": {
+    "style": "duotone",
+    "size": "medium",
+    "container_style": "rounded",
+    "container_bg": "gradient"
+  },
+  "motion": {
+    "hover_scale": 1.03,
+    "hover_shadow": true,
+    "scroll_animation": "scale-fade",
+    "animation_duration": 0.5,
+    "stagger_delay": 0.12
+  },
+  "components": {
+    "nav_style": "floating",
+    "card_border": true,
+    "card_shadow": "sm",
+    "badge_style": "soft",
+    "divider_style": "gradient"
+  }
+}
